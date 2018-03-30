@@ -1,6 +1,6 @@
-# spa
+# VuejS 2 Started Template
 
-> A Vue.js single page application project using vue-router by samuelayo
+> A Vue.js single page application project using vue-router forked from https://github.com/samuelayo/vue-spapt1
 
 ## Build Setup
 
